@@ -10,11 +10,17 @@
 6. Listar Candidatos
 7. Listar Cursos
 8. Listar Salas
-9. Geração de Relatórios
+9. Alterar Candidato
+10. Alterar Curso
+11. Alterar Sala
+12. Remover Candidato
+13. Remover Curso
+14. Remover Sala
+15. Geração de Relatórios
 
 ## Rodando o Laravel Framework
 
-### Entre no container docker-php com o seguinte comando:
+### Entre no container *docker-php* com o seguinte comando:
 
 ```
 docker exec -it php bash
@@ -38,7 +44,7 @@ Realize o clone dentro do diretório **public** da Lemp-Stack.
 git clone https://github.com/Miltex/academico.git
 ```
 
-### Entre no container docker-php com o seguinte comando:
+### Entre no container *docker-php* com o seguinte comando:
 
 ```
 docker exec -it php bash
